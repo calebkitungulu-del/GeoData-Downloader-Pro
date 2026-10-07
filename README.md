@@ -1,3 +1,11 @@
+# GeoData Downloader Pro 🌍
+
+> Professional geospatial data downloader built in Vihiga, Kenya
+
+## 📥 DOWNLOAD NOW - Windows (No Python Needed)
+### [**⬇️ Click Here - GeoDataDownloaderPro_Setup_v1.0.exe (101 MB)**](https://github.com/calebkitungulu-del/GeoData-Downloader-Pro/releases/latest)
+
+Installs like any Windows app. 1-click install.
 # 🌍 GeoData Downloader Pro
 
 > Download DEM, Satellite Imagery, Climate & Topographic data in one click - No coding needed.
